@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/inteli.png-ad1bd03508c208dda659c3172650a166.stex"
+path="res://.import/Escritorio.webp-38806f8dde3ad91f7fe412633eb712b7.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://img/inteli.png"
-dest_files=[ "res://.import/inteli.png-ad1bd03508c208dda659c3172650a166.stex" ]
+source_file="res://Escritorio.webp"
+dest_files=[ "res://.import/Escritorio.webp-38806f8dde3ad91f7fe412633eb712b7.stex" ]
 
 [params]
 
